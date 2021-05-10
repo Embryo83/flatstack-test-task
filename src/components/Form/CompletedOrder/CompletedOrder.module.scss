@@ -1,0 +1,29 @@
+.form__completed {
+  color: #2b2525;
+  font-size: 16px;
+
+  .form__completed_title {
+    color: #5a1094;
+    font-size: 26px;
+    font-weight: 300;
+    margin-bottom: 24px;
+  }
+
+  .form__completed_orderNumber {
+    font-weight: 500;
+    margin-bottom: 11px;
+  }
+
+  .form__completed_email {
+    margin-bottom: 31px;
+
+    span {
+      color: #5a1094;
+    }
+  }
+
+  .form__completed_date {
+    display: block;
+    font-weight: 700;
+  }
+}

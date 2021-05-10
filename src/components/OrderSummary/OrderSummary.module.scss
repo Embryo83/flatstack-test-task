@@ -1,0 +1,41 @@
+.order_summary_wrapper {
+  display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-between;
+
+.order_summary {
+  h2 {
+    color: #5a1094;
+    font-size: 16px;
+    font-weight: 300;
+    margin: 0;
+  }
+
+  .title_container {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 7px;
+
+    button {
+      color: #979797;
+      margin-top: 0;
+    }
+  }
+
+  .items_list {
+    margin-top: 14px;
+  }
+}
+
+.order_summary_text {
+  font-size: 10px;
+  line-height: 1.2;
+  color: #9C9C9C;
+  text-align: center;
+
+  .order_summary_terms {
+    text-decoration: underline;
+  }
+}
+}

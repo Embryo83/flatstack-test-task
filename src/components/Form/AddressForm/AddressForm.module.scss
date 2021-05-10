@@ -1,0 +1,37 @@
+.form__address {
+  position: relative;
+}
+
+.geo__container {
+  position: relative;
+
+  input {
+    padding-right: 35px;
+  }
+}
+
+.geo__container_type_btn {
+  height: 100%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 40px;
+}
+
+.form__input {
+  display: flex;
+  color: #C9C9C9;
+
+  select {
+    margin-right: 20px;
+    max-width: 180px;
+    color: black;
+    appearance: none;
+    background: url(../../../assets/svg/arrow.svg) no-repeat right;
+    background-position-x: calc(100% - 16px);
+  }
+
+  input {
+    max-width: 120px;
+  }
+}

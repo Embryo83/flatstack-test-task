@@ -1,0 +1,29 @@
+.form__billing {
+  color: #5a1094;
+
+  h2 {
+    font-size: 26px;
+    font-weight: 300;
+    margin: 20px 0 4px;
+  }
+
+  .form__billing_label {
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 6px;
+  }
+
+  input {
+    margin-bottom: 10px;
+  }
+
+  button {
+    margin-top: 10px;
+  }
+
+  .form__billing_title {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+  }
+}
