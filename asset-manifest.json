@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/flatstack-test-task/static/css/main.ade6fbef.chunk.css",
+    "main.js": "/flatstack-test-task/static/js/main.0a899b70.chunk.js",
+    "main.js.map": "/flatstack-test-task/static/js/main.0a899b70.chunk.js.map",
+    "runtime-main.js": "/flatstack-test-task/static/js/runtime-main.ca1b5226.js",
+    "runtime-main.js.map": "/flatstack-test-task/static/js/runtime-main.ca1b5226.js.map",
+    "static/css/2.ffda3d49.chunk.css": "/flatstack-test-task/static/css/2.ffda3d49.chunk.css",
+    "static/js/2.1bedf161.chunk.js": "/flatstack-test-task/static/js/2.1bedf161.chunk.js",
+    "static/js/2.1bedf161.chunk.js.map": "/flatstack-test-task/static/js/2.1bedf161.chunk.js.map",
+    "index.html": "/flatstack-test-task/index.html",
+    "static/css/2.ffda3d49.chunk.css.map": "/flatstack-test-task/static/css/2.ffda3d49.chunk.css.map",
+    "static/css/main.ade6fbef.chunk.css.map": "/flatstack-test-task/static/css/main.ade6fbef.chunk.css.map",
+    "static/js/2.1bedf161.chunk.js.LICENSE.txt": "/flatstack-test-task/static/js/2.1bedf161.chunk.js.LICENSE.txt",
+    "static/media/AddressForm.module.scss": "/flatstack-test-task/static/media/arrow.402867b2.svg",
+    "static/media/backpack.6dacfc17.png": "/flatstack-test-task/static/media/backpack.6dacfc17.png",
+    "static/media/cart.29d6cb1e.svg": "/flatstack-test-task/static/media/cart.29d6cb1e.svg",
+    "static/media/geolocation.f6fcec61.svg": "/flatstack-test-task/static/media/geolocation.f6fcec61.svg",
+    "static/media/lock.0874744f.svg": "/flatstack-test-task/static/media/lock.0874744f.svg",
+    "static/media/logo.9d5ac56e.svg": "/flatstack-test-task/static/media/logo.9d5ac56e.svg",
+    "static/media/PaymentForm.module.scss": "/flatstack-test-task/static/media/visa.41a6b474.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca1b5226.js",
+    "static/css/2.ffda3d49.chunk.css",
+    "static/js/2.1bedf161.chunk.js",
+    "static/css/main.ade6fbef.chunk.css",
+    "static/js/main.0a899b70.chunk.js"
+  ]
+}
