@@ -3,7 +3,7 @@
 import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
 import getLocation from '../utils/geolocation';
 
-const API_KEY = '5d8239c21c674eb28e451883cbbf6be6';
+const API_KEY = '95ee79afc2594782a5128f41e70ed9de';
 const API_URL = 'https://api.opencagedata.com/geocode/v1/json?q';
 
 export const fetchGeocodedLocation = createAsyncThunk(
